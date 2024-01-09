@@ -26,7 +26,7 @@ I have worked on several Software Development projects as well as Data Science P
 ### Data Science Projects
 * [Ransomware Detection System](https://github.com/sagarswap/selfattack-foracause)
 * [Intrusion Detection System](https://github.com/sagarswap/IntrusionDetectionSystem)
-* [SMS Spam Detection System](https://github.com/sagarswap/SMS_Spam_Detector)
+* [SMS Spam Detection System via NLP](https://github.com/sagarswap/SMS_Spam_Detector)
 * [Flaky Test Case Detector](https://github.com/sagarswap/TestFlakinessDetector)
 * [Intrusion Detection System via Deep Leanring](https://github.com/sagarswap/Intrusion-Detection-System_NN)
 
