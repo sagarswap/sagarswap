@@ -21,7 +21,6 @@ I have worked on several Software Development projects as well as Data Science P
 * [Minesweeper Game](https://github.com/sagarswap/BestGameEverrr)
 * [Phone Call Checker](https://github.com/sagarswap/Android-Call-Processing)
 * [Service Center Locator](https://github.com/sagarswap/Google-Maps-Project)
-* [Android Call Checker](https://github.com/sagarswap/Android-Call-Processing)
 
 ### Data Science Projects
 * [Ransomware Detection System](https://github.com/sagarswap/selfattack-foracause)
