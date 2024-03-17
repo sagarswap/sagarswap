@@ -16,6 +16,9 @@ Beyond GPL, I also have experience with SQL and packages like ReactJS, Java Spri
 
 I have worked on several Software Development projects as well as Data Science Projects with a special focus on Cyber Security. Several of which you can find here, on my GitHub.
 
+### Research Project
+* [Network Dynamics on a Static Co-Evolving Network](https://github.com/sagarswapRIT/Voter-Model)
+
 ### Software Development Projects
 * [Quiz App](https://github.com/sagarswap/QuizApp)
 * [Minesweeper Game](https://github.com/sagarswap/BestGameEverrr)
@@ -28,10 +31,6 @@ I have worked on several Software Development projects as well as Data Science P
 * [SMS Spam Detection System via NLP](https://github.com/sagarswap/SMS_Spam_Detector)
 * [Flaky Test Case Detector](https://github.com/sagarswap/TestFlakinessDetector)
 * [Intrusion Detection System via Deep Leanring](https://github.com/sagarswap/Intrusion-Detection-System_NN)
-
-### Research Project
-* [Game Theory Simulator](https://github.com/sagarswapRIT/Voter-Model)
-
 <!--
 **sagarswap/sagarswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
