@@ -26,6 +26,7 @@ I have worked on several Software Development projects as well as Data Science P
 * [Service Center Locator](https://github.com/sagarswap/Google-Maps-Project)
 
 ### Data Science Projects
+* [Disease Spread using SIR Model](https://github.com/sagarswap/SIR-Model)
 * [Ransomware Detection System](https://github.com/sagarswap/selfattack-foracause)
 * [Intrusion Detection System](https://github.com/sagarswap/IntrusionDetectionSystem)
 * [SMS Spam Detection System via NLP](https://github.com/sagarswap/SMS_Spam_Detector)
